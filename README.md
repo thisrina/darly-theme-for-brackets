@@ -1,6 +1,6 @@
 
 # Darkly Theme for Brackets
-Made with a UIX Designer who is a sucker for dark environments.
+Made by a UIX Designer who is a sucker for dark environments. 
 
 ## Requirements:
   * [Fira Code font](https://github.com/tonsky/FiraCode/releases)
