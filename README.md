@@ -13,5 +13,5 @@ Made with a UIX Designer who is a sucker for dark environments.
 ![Material Theme Dark for Brackets - HTML & CSS File](https://i.imgur.com/RxD5FRC.jpg)
 
 ## Copyright and License
-Copyright &copy; 2018. Released under the [MIT License](https://github.com/naderi/material-theme-for-brackets/blob/master/LICENSE).
+Copyright &copy; 2018. Released under the [MIT License](https://github.com/thisrina/darly-theme-for-brackets/blob/master/LICENSE).
 
