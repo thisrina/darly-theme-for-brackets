@@ -1,0 +1,18 @@
+{
+    "name": "darly-theme-for-brackets",
+    "title": "Darkly Theme for Brackets",
+    "description": "Made with a UIX Designer who is a sucker for dark environments.",
+    "homepage": "https://github.com/thisrina/darly-theme-for-brackets",
+    "version": "1.0",
+    "author": {
+        "name": "Youssef Rina",
+        "url": "https://github.com/thisrina"
+    },
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme","material", "dark","Black","minimal",]
+}
